@@ -1,0 +1,5492 @@
+[
+  {
+    "A": "johnleider",
+    "B": "kazupon",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDQyODMwNDk4Ng==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "xdeq",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDUxNjYxNTU1MQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "dovyden",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDUxNjYxNTU1MQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "jpoppe",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ZhangJian-3ti",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "KaelWD",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ndabAP",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "benfavre",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "MoazAlkharfan",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "cuongdevjs",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "VladStepanov",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "1537372393",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "vesper8",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Raymonf",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "csawtelle",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ascott18",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Nothing-Works",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "brolnickij",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "SeregPie",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "vasisouv",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "b-strauss",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ZelCloud",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "moritzruth",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "axe-me",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "kytosai",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "CarterLi",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "TotomInc",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "uniquexiaobai",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "sonicoder86",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "VietKhangLH",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "marsprince",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "sidelong44",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ntnyq",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "slyang520",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Raiondesu",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "johannes-z",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Jackliu007888",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "iamareebjamal",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "nesscx",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Mister-Hope",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "hslee2008",
+    "B": "ThaDaVos",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3MDYzNTQ2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "takhello",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "goelrohan6",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "anabelespinal",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "maarteNNNN",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "trottierm",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "m4heshd",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "javidsho",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "MelnikovBogdan",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "oroalej",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "kjo1",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "jiangxiaoqiang",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "xlcrr",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mlrcbsousa",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mlrcbsousa",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "deanmikan",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "BrayamValero",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "IsraaMoqbel",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "dskvr",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "CODE-BR3AKER",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "prd-tri-nguyen",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "rubebop",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "moksha-z",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU3NTM0OTM4NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "MichaelJCole",
+    "B": "kumaresan-subramani",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDc4NDc1NzMwNg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Tofandel",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxMjA2NzE5Nw==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "sionzee",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU5OTcyNjMxMQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "tangbindu",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDU5OTcyNjMxMQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "BashCloud",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYwMzg0Mzg2Ng==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Oleksii14",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum185AAJN8",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "the94air",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum185AAJN8",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "syuilo",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "greegus",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Ikrom-Murodov",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "simultsop",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "defun99",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "CalebKester",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "zyxm5",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "dimashky",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "bertonix-dm",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "josephfh",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Melvintehu",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "rijkvanzanten",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "m4heshd",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "saksham-malhotra",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "saksham-malhotra",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Gustavodacrvi",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "johnRivs",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mshamaseen",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "jaredutah",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "vphutane27",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Nazaire",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ivankirshin",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ivankirshin",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "AlexanderMykulych",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Targzp",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "stasvoliansky",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "stasvoliansky",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "chartinger",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "HappyLDE",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "andrewsm80",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "alexvoedi",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "zvizvi",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "fk1blow",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "fk1blow",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "huoher",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "huoher",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ebisbe",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ebisbe",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "eposwiatny",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "gniuslab",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "gniuslab",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "KulikoffA",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "whitespacecode",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "vaheqelyan",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "renatodeleao",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "cyrilluce",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "spprzotj4845",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "AlejandroAkbal",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "bblanchon",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxNjEyNjA4OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "CrixuAMG",
+    "B": "Awolwe",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgxMTg0OTg4NA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "xcchcaptain",
+    "B": "Awolwe",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgxMTg0OTg4NA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "FarahRoshdii",
+    "B": "Awolwe",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgxMTg0OTg4NA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "lcoder",
+    "B": "wonderful-panda",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY1MzgzMjU5MA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "jheng-jie",
+    "B": "wonderful-panda",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY1MzgzMjU5MA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "towry",
+    "B": "wonderful-panda",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY1MzgzMjU5MA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "m4heshd",
+    "B": "michaeltintiuc",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxOTQzMzI4Ng==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "hellodigua",
+    "B": "michaeltintiuc",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxOTQzMzI4Ng==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "307god",
+    "B": "michaeltintiuc",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxOTQzMzI4Ng==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "SnowingFox",
+    "B": "michaeltintiuc",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxOTQzMzI4Ng==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "erip2",
+    "B": "michaeltintiuc",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYxOTQzMzI4Ng==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ItsRyanWu",
+    "B": "aztalbot",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDYyMzQ3NjE1MQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Zumra96",
+    "B": "wheatjs",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY2OTQ3MTY5MQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "SancheZz",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY0MTU0MTM3OA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "robbiemie",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY0MTU0MTM3OA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "vincerubinetti",
+    "B": "pikax",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg1MzcwNTAxOQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "silverwind",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY0MjY1MTAxMA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "patrickording",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY0MjY1MTAxMA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mweber06",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY0MzI1ODk0Ng==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "silverwind",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY0MzI1ODk0Ng==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "patrickording",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY0MzI1ODk0Ng==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "vh13294",
+    "B": "pikax",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY0NDYwODUzNw==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "romalytvynenko",
+    "B": "pikax",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY0NDYwODUzNw==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Nevah5",
+    "B": "mannok",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY2MzU3MzQzNg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "bhomaidan1990",
+    "B": "mannok",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY2MzU3MzQzNg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "fabifont",
+    "B": "Picknight",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY2Mzc1ODg3MA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "briosheje",
+    "B": "Picknight",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY2Mzc1ODg3MA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "jfet97",
+    "B": "Picknight",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY2Mzc1ODg3MA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "phillipkregg",
+    "B": "Picknight",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY2Mzc1ODg3MA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "hansonfang",
+    "B": "Picknight",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY2Mzc1ODg3MA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "bhomaidan1990",
+    "B": "Picknight",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY2Mzc1ODg3MA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "NMFES",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY3NDg4MTQzOQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "sheoak",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY3NDg4MTQzOQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Sovai",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY3NDg4MTQzOQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "lva98",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY3NDg4MTQzOQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "aletar89",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY3NDg4MTQzOQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "dde16",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY3NDg4MTQzOQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "vivavv",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY3NDg4MTQzOQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "YossiSaadi",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY3NDg4MTQzOQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "yy0608",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY3NDg4MTQzOQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "jangxx",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY3NDg4MTQzOQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "joepvdstaaij",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY3NDg4MTQzOQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "TaDucToan",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY3NDg4MTQzOQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "RationalFragile",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY3NDg4MTQzOQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "AndrewSavetchuk",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY3NDg4MTQzOQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "ecchochan",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY3NDg4MTQzOQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "piotr-przebieracz",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY3NDg4MTQzOQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "nasersafaee",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY3NDg4MTQzOQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "zoomyboy",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY3NDg4MTQzOQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "mehdisolhan",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY3NDg4MTQzOQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "m4heshd",
+    "B": "anming-john",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyMzczMzI5OA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "wzono",
+    "B": "luchaoqun123",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyNTg2MTU2Ng==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "zb-0819",
+    "B": "luchaoqun123",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyNTg2MTU2Ng==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "koushuiqiang",
+    "B": "luchaoqun123",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyNTg2MTU2Ng==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "ckvv",
+    "B": "luchaoqun123",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyNTg2MTU2Ng==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Lehman1024",
+    "B": "luchaoqun123",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyNTg2MTU2Ng==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Lehman1024",
+    "B": "luchaoqun123",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyNTg2MTU2Ng==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "m4heshd",
+    "B": "luchaoqun123",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyNTg2MTU2Ng==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "momomom123",
+    "B": "luchaoqun123",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyNTg2MTU2Ng==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "shiki0083",
+    "B": "luchaoqun123",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyNTg2MTU2Ng==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "FrankFan",
+    "B": "luchaoqun123",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyNTg2MTU2Ng==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "catlair",
+    "B": "luchaoqun123",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyNTg2MTU2Ng==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "opcooc",
+    "B": "luchaoqun123",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyNTg2MTU2Ng==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Sitzlic",
+    "B": "luchaoqun123",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyNTg2MTU2Ng==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "akbarnafisa",
+    "B": "luchaoqun123",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyNTg2MTU2Ng==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Blair2004",
+    "B": "luchaoqun123",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyNTg2MTU2Ng==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "esoon697",
+    "B": "luchaoqun123",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyNTg2MTU2Ng==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "lmlife2016",
+    "B": "luchaoqun123",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyNTg2MTU2Ng==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "lmlife2016",
+    "B": "luchaoqun123",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyNTg2MTU2Ng==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "gluecksmensch",
+    "B": "luchaoqun123",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyNTg2MTU2Ng==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "avilang",
+    "B": "luchaoqun123",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyNTg2MTU2Ng==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "dxvladislavvolkov",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY4OTkyNzY2OA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "CordlessWool",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY4OTkyNzY2OA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "teabagp",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY4OTkyNzY2OA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "nandongdong",
+    "B": "yuanjinyong",
+    "comment_id": "IC_kwDOCCum18405Qop",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "zs-g",
+    "B": "yuanjinyong",
+    "comment_id": "IC_kwDOCCum18405Qop",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "caozhong1996",
+    "B": "yuanjinyong",
+    "comment_id": "IC_kwDOCCum18405Qop",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "rlsz",
+    "B": "yuanjinyong",
+    "comment_id": "IC_kwDOCCum18405Qop",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "luoguibin",
+    "B": "yuanjinyong",
+    "comment_id": "IC_kwDOCCum18405Qop",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "RayforReal",
+    "B": "yuanjinyong",
+    "comment_id": "IC_kwDOCCum18405Qop",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "JenuelDev",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5MTY0NjU4NQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "seanlandsman",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5MTY0NjU4NQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "kyoto44",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5MTY0NjU4NQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "MartinKravec",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5MTY0NjU4NQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "zleight1",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5MTY0NjU4NQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "vpasquier",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5MTY0NjU4NQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Niageadon",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5MTY0NjU4NQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ThaddeusJiang",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5MTY0NjU4NQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "michaelnwani",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5MTY0NjU4NQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ketzu",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5MTY0NjU4NQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "hexiaogou",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5MTY0NjU4NQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "bkarlson",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5MTY0NjU4NQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "EgorBlagov",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5MTY0NjU4NQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Meekohi",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5MTY0NjU4NQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "HectorMRC",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5MTY0NjU4NQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "b-strauss",
+    "B": "unbyte",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5MzgyMjkwOA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "akirarika",
+    "B": "surmon-china",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5ODQyMDQ0MQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Kadeluxe",
+    "B": "surmon-china",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5ODQyMDQ0MQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "seijikohara",
+    "B": "surmon-china",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5ODQyMDQ0MQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "ZacharyWeiner",
+    "B": "surmon-china",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5ODQyMDQ0MQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "loriswit",
+    "B": "surmon-china",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5ODQyMDQ0MQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Kerigard",
+    "B": "surmon-china",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5ODQyMDQ0MQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "qiaozhu",
+    "B": "surmon-china",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5ODQyMDQ0MQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "MyraxByte",
+    "B": "surmon-china",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5ODQyMDQ0MQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "sadortun",
+    "B": "surmon-china",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5ODQyMDQ0MQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "chojnicki",
+    "B": "surmon-china",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5ODQyMDQ0MQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "LitschiW",
+    "B": "surmon-china",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5ODQyMDQ0MQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "dpietrzyk",
+    "B": "surmon-china",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5ODQyMDQ0MQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "okyungjin",
+    "B": "surmon-china",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5ODQyMDQ0MQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "lucas-santosP",
+    "B": "surmon-china",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5ODQyMDQ0MQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "iNerV",
+    "B": "amrnn90",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDY5NTc4OTQ0MA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "RobbinBaauw",
+    "B": "FrankFang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcwMDQzNTM2OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "nfplee",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcxMjI4NjE1Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "matt-read",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcxMjI4NjE1Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mome-borogove",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcxMjI4NjE1Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Gomah",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcxMjI4NjE1Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "rhues",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcxMjI4NjE1Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "eldair",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcxMjI4NjE1Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "0xsha256",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcxMjI4NjE1Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "StevenMcgrew",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcxMjI4NjE1Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "samclane",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcxMjI4NjE1Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "SeregPie",
+    "B": "yyx990803",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcxMjI5MDI4NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "d9k",
+    "B": "LinusBorg",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcxNDU1MTc5NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "coryrylan",
+    "B": "LinusBorg",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcxNDU1MTc5NA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "douglasg14b",
+    "B": "xin-",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcxOTI5OTEwNQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "subdavis",
+    "B": "xin-",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcxOTI5OTEwNQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "jokester",
+    "B": "LinusBorg",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyMTQwNTI0Mw==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "johnwc",
+    "B": "vhoyer",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDcyNjIzNDc4OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Iskren1990",
+    "B": "LinusBorg",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDc2ODM4ODk2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "sagalbot",
+    "B": "LinusBorg",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDc2ODM4ODk2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "preom",
+    "B": "LinusBorg",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDc2ODM4ODk2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "HarveyYu-Pro",
+    "B": "LinusBorg",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDc2ODM4ODk2Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Zaiyiiiiii",
+    "B": "LinusBorg",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDc1MjM2Njg4Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Knove",
+    "B": "LinusBorg",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDc1MjM2Njg4Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ThinhVu",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDc1OTE3MjY3OA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "202780181",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDc1OTE3MjY3OA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "boussadjra",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDc1OTE3MjY3OA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "LeeJim",
+    "B": "pikax",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDc2MTU2MDY2Mg==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "LadyYang",
+    "B": "Kingbultsea",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDc2MzQ1MjQwNQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "EgorPopovPP",
+    "B": "achaphiv",
+    "comment_id": "IC_kwDOCCum185HHQfq",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "sagsagg",
+    "B": "achaphiv",
+    "comment_id": "IC_kwDOCCum185HHQfq",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "RiESAEX",
+    "B": "achaphiv",
+    "comment_id": "IC_kwDOCCum185HHQfq",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "xiankq",
+    "B": "achaphiv",
+    "comment_id": "IC_kwDOCCum185HHQfq",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "tobiasdalhof",
+    "B": "achaphiv",
+    "comment_id": "IC_kwDOCCum185HHQfq",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "aaronransley",
+    "B": "hymair",
+    "comment_id": "IC_kwDOCCum185Rcaj9",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "vanekj",
+    "B": "hymair",
+    "comment_id": "IC_kwDOCCum185Rcaj9",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "emmanuelballery",
+    "B": "LinusBorg",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDc5MTk3NTUxMw==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "emmanuelballery",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDc5MjI5NzcxNg==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "jprabawa",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDc5MjI5NzcxNg==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "v-jacob",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDc5MjI5NzcxNg==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "dms449",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDc5MjI5NzcxNg==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "RobinVangampelaere",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDc5MjI5NzcxNg==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "DamianGlowala",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDc5MjI5NzcxNg==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "GitTurm",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgwNDMxNjA1Mw==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mahnouel",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgwNDMxNjA1Mw==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "vincerubinetti",
+    "B": "LinusBorg",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgwNjUzMzEzNA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "NikitaIT",
+    "B": "RemMai",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg3OTc0MDUzOA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Assone",
+    "B": "RemMai",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg3OTc0MDUzOA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "w757703598",
+    "B": "RemMai",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg3OTc0MDUzOA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "halfXuan",
+    "B": "RemMai",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg3OTc0MDUzOA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "juwie5",
+    "B": "RemMai",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg3OTc0MDUzOA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "lifeifeijack",
+    "B": "RemMai",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg3OTc0MDUzOA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "emink92",
+    "B": "RemMai",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg3OTc0MDUzOA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "LockonS",
+    "B": "RemMai",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg3OTc0MDUzOA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "strawbreey",
+    "B": "RemMai",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg3OTc0MDUzOA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "S0c5",
+    "B": "RemMai",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg3OTc0MDUzOA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "potatozerg",
+    "B": "RemMai",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg3OTc0MDUzOA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "lopck",
+    "B": "RemMai",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg3OTc0MDUzOA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "kennethtomagan",
+    "B": "RemMai",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg3OTc0MDUzOA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Egoraizer",
+    "B": "RemMai",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg3OTc0MDUzOA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "lalawila",
+    "B": "RemMai",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg3OTc0MDUzOA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "antt0n",
+    "B": "RemMai",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg3OTc0MDUzOA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Shinydevstar",
+    "B": "RemMai",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg3OTc0MDUzOA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "masterplexDev",
+    "B": "RemMai",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg3OTc0MDUzOA==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "oneclose-marinusdebeer",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgyNjI3ODg5Nw==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "davidboom95",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgyNjI3ODg5Nw==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "luischinchillagarcia",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgyNjI3ODg5Nw==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "flynncao",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgyNjI3ODg5Nw==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "cocobohd",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgyNjI3ODg5Nw==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mrleblanc101",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgyNjI3ODg5Nw==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "seifsay3d",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgyNjI3ODg5Nw==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "hdllive",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgyNjI3ODg5Nw==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ArnavK-09",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgyNjI3ODg5Nw==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "rubebop",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgyNjI3ODg5Nw==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "guilanier",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgyNjI3ODg5Nw==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Sovai",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgyNjI3ODg5Nw==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "RomanSkrypnik",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgyNjI3ODg5Nw==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Yill625",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgyNjI3ODg5Nw==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mohamad68",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgyNjI3ODg5Nw==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "gabrielius-breachgg",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDgyNjI3ODg5Nw==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "antoniandre",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg1MTE0Njg2OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Twoody",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg1MTE0Njg2OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "0xradical",
+    "B": "HcySunYang",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg1MTE0Njg2OQ==",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "voxtobox",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg1MjM5MDMxMQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "DanielRunningen",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg1MjM5MDMxMQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "lijialiang",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg1MjM5MDMxMQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "m4heshd",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg1MjM5MDMxMQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "sotasan",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg1MjM5MDMxMQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "dskvr",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg1MjM5MDMxMQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "kushagharahi",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg1MjM5MDMxMQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "voxtobox",
+    "B": "LinusBorg",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg1MjQwNzc5Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "J-Sek",
+    "B": "LinusBorg",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg1MjQwNzc5Mg==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "wellrus",
+    "B": "LinusBorg",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg1OTkzNzQ5MA==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "simlevesque",
+    "B": "dreadkopp",
+    "comment_id": "IC_kwDOCCum185XMF-_",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Lehoczky",
+    "B": "dreadkopp",
+    "comment_id": "IC_kwDOCCum185XMF-_",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "daniilgri",
+    "B": "dreadkopp",
+    "comment_id": "IC_kwDOCCum185XMF-_",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Severino",
+    "B": "dreadkopp",
+    "comment_id": "IC_kwDOCCum185XMF-_",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "iNerV",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg2NTc1OTM3OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "starkovsky",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg2NTc1OTM3OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "McSmog",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg2NTc1OTM3OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "bazuka5801",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg2NTc1OTM3OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "heohex",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg2NTc1OTM3OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "longfeiyu127",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg2NTc1OTM3OQ==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "L-orz",
+    "B": "posva",
+    "comment_id": "MDEyOklzc3VlQ29tbWVudDg2ODAzNjI1Ng==",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "nmhungdev",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1840k7NA",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "aislanmaia",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum1841aSNR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "doox911",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum1841aSNR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "tim-kilian",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum1841aSNR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "muellerando",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum1841aSNR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "memsethz",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum1841aSNR",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "vasilevich",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum1841aSNR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "jackchoumine",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum1841aSNR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "a573367014",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum1841aSNR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "RayBob1993",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum1841aSNR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "gareth-disqo",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum1841aSNR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "yuetjiang",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum1841aSNR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "imguolao",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum1841aSNR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "rezelute",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum1841aSNR",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "eliaSchenker",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum1841aSNR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "lucasamazonas",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum1841aSNR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "wangmeijian",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum1841aSNR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "St1ggy",
+    "B": "yibird",
+    "comment_id": "IC_kwDOCCum1841qZAi",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "kudorgyozo",
+    "B": "yibird",
+    "comment_id": "IC_kwDOCCum1841qZAi",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Michal-Dziedzinski",
+    "B": "yibird",
+    "comment_id": "IC_kwDOCCum1841qZAi",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Cmacu",
+    "B": "yibird",
+    "comment_id": "IC_kwDOCCum1841qZAi",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "NickdeK",
+    "B": "yibird",
+    "comment_id": "IC_kwDOCCum1841qZAi",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mariuscdejong",
+    "B": "yibird",
+    "comment_id": "IC_kwDOCCum1841qZAi",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "toto6038",
+    "B": "yibird",
+    "comment_id": "IC_kwDOCCum1841qZAi",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mariusz-ybrs",
+    "B": "yibird",
+    "comment_id": "IC_kwDOCCum1841qZAi",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "zeroinformatique",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "SachaAvazashvili",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "vxow",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "MtDalPizzol",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "DanielMontilla",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Mighty683",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "doox911",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "willwinberg",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "hamstertomsk",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "henryowens",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "vfiee",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mymx2",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "cryptopay-pavel",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "myesn",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Cmacu",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "RSurya99",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "SamHoque",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "adamjedrzejec",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "psalcedodev",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "phojie",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "AlexMargk2112",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "cesarkohl",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "VChet",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "anasZabili",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "maheshbansod",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "huangsheng001",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mxp131011",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "romka-best",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "matthew-dean",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Flysky12138",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "solmanter",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "yorgaraz",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "f1am3d",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "the0ffh",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "asrorbek-mannonov",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "drik98",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "BrentonCozby",
+    "B": "phasetri",
+    "comment_id": "IC_kwDOCCum1844MpJS",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "jaschahuisman",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Xuhv",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "sh-winter",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "TylerOliver",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "vqoph",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "EOS-Yavieh",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "dufan1994",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "xiaoyang33",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "equt",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "kudorgyozo",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "vxow",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "brandonlee781",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "tabuz",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Shinigami92",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "conanak99",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "RovshenTagangylyjov",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "lirong098",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "MariusHendriks",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "zhekaiii",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "white5pace",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Dmitry-zh",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "gwynncausing",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "DanielMontilla",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "brolnickij",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "FBenkhalifa",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Mighty683",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Cheerwhy",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "TTDrazy",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Obapelumi",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "He110te4m",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "lzr900515",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "kicq",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "jblachly",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "xinbenlv",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "jals1212",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mymx2",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "AlanQtten",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "AlanQtten",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ttt123123ttt",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "gramberg",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "m1roku",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "anburocky3",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Cmacu",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "RSurya99",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "SamHoque",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "adamjedrzejec",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "luigiMinardi",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "fareez-ahamed",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "juanalb",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "zhouweilin",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "kedniko",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "rkedde",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "VChet",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "lSelectral",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "jscptman",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "prfardin",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "cuikho210",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ferflores507",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "idmytro",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "maheshbansod",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "phojie",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "nbcgww",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "romka-best",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "RemiMyrset",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "songpeng154",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "firdausbaihaqi",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "padarom",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "tan90-ninety",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "w872730491w",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Suyannesara",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "snicki13",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "klaveren",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "noahward",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "matthew-dean",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "christianmcfarland",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Flysky12138",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "sky124380729",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "YDKD",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "1071125093",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "danielmalaton",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "liunnn1994",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "linyxria",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "solmanter",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "yorgaraz",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "so1ve",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ginlink",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "the0ffh",
+    "B": "languanghao",
+    "comment_id": "IC_kwDOCCum1845y0-v",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "louia",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1849G3hE",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Benbinbin",
+    "B": "jinmayamashita",
+    "comment_id": "IC_kwDOCCum184-9Uyq",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Benbinbin",
+    "B": "edison1105",
+    "comment_id": "IC_kwDOCCum184_AAqm",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "xkubow",
+    "B": "edison1105",
+    "comment_id": "IC_kwDOCCum184_AAqm",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "hypnotic-frog",
+    "B": "yousefamar",
+    "comment_id": "IC_kwDOCCum185AA90T",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "okyungjin",
+    "B": "yousefamar",
+    "comment_id": "IC_kwDOCCum185AA90T",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "theguriev",
+    "B": "yousefamar",
+    "comment_id": "IC_kwDOCCum185AA90T",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Shinigami92",
+    "B": "Miofly",
+    "comment_id": "IC_kwDOCCum185AzEHR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Miofly",
+    "B": "brolnickij",
+    "comment_id": "IC_kwDOCCum185BqGlb",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "extrem7",
+    "B": "brolnickij",
+    "comment_id": "IC_kwDOCCum185BqGlb",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Shinigami92",
+    "B": "brolnickij",
+    "comment_id": "IC_kwDOCCum185BqGlb",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Shinigami92",
+    "B": "xiziliang",
+    "comment_id": "IC_kwDOCCum185BxMWT",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Shinigami92",
+    "B": "WormGirl",
+    "comment_id": "IC_kwDOCCum185CB-xV",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Shinigami92",
+    "B": "zhouhuiquan",
+    "comment_id": "IC_kwDOCCum185DQO1Q",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Shinigami92",
+    "B": "jiangxd2016",
+    "comment_id": "IC_kwDOCCum185DRUKM",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "sawich",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185DSOq2",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "HibernantBear",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185DSOq2",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "m1roku",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185DSOq2",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "aislanmaia",
+    "B": "AndreiSoroka",
+    "comment_id": "IC_kwDOCCum185Dn3zJ",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "f15u",
+    "B": "lzr900515",
+    "comment_id": "IC_kwDOCCum185Em5uX",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Shinigami92",
+    "B": "lzr900515",
+    "comment_id": "IC_kwDOCCum185Em5uX",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "brolnickij",
+    "B": "lzr900515",
+    "comment_id": "IC_kwDOCCum185Em5uX",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ifmos",
+    "B": "lzr900515",
+    "comment_id": "IC_kwDOCCum185Em5uX",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "juzser",
+    "B": "lzr900515",
+    "comment_id": "IC_kwDOCCum185Em5uX",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Miofly",
+    "B": "lzr900515",
+    "comment_id": "IC_kwDOCCum185Em5uX",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "hypnotic-frog",
+    "B": "lzr900515",
+    "comment_id": "IC_kwDOCCum185Em5uX",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "0fprod",
+    "B": "lzr900515",
+    "comment_id": "IC_kwDOCCum185Em5uX",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "maico910",
+    "B": "lzr900515",
+    "comment_id": "IC_kwDOCCum185Em5uX",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Miguel-Bento-Github",
+    "B": "lzr900515",
+    "comment_id": "IC_kwDOCCum185Em5uX",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Asim-Tahir",
+    "B": "lzr900515",
+    "comment_id": "IC_kwDOCCum185Em5uX",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "IrfDev",
+    "B": "lzr900515",
+    "comment_id": "IC_kwDOCCum185Em5uX",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "JasonLandbridge",
+    "B": "tewshi",
+    "comment_id": "IC_kwDOCCum185E1xXx",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "vojvodics",
+    "B": "ckvv",
+    "comment_id": "IC_kwDOCCum185FPPbi",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Mrlilili",
+    "B": "ckvv",
+    "comment_id": "IC_kwDOCCum185FPPbi",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mesqueeb",
+    "B": "ckvv",
+    "comment_id": "IC_kwDOCCum185FPPbi",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "jopicornell",
+    "B": "ckvv",
+    "comment_id": "IC_kwDOCCum185FPPbi",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "brolnickij",
+    "B": "ckvv",
+    "comment_id": "IC_kwDOCCum185FPPbi",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "IrfDev",
+    "B": "ckvv",
+    "comment_id": "IC_kwDOCCum185FPPbi",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "JasonLandbridge",
+    "B": "wangrongding",
+    "comment_id": "IC_kwDOCCum185Hd5Oa",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "myesn",
+    "B": "vdseregin",
+    "comment_id": "IC_kwDOCCum185IgV_I",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "yibird",
+    "B": "vdseregin",
+    "comment_id": "IC_kwDOCCum185IgV_I",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "scredii",
+    "B": "vdseregin",
+    "comment_id": "IC_kwDOCCum185IgV_I",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "juzser",
+    "B": "wynn-w",
+    "comment_id": "IC_kwDOCCum185KVYAF",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "vasilevich",
+    "B": "wynn-w",
+    "comment_id": "IC_kwDOCCum185KVYAF",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Leizhenpeng",
+    "B": "wynn-w",
+    "comment_id": "IC_kwDOCCum185KVYAF",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "juzser",
+    "B": "jsahkjfhasjhfas",
+    "comment_id": "IC_kwDOCCum185Ksc6_",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "brandonxiang",
+    "B": "jsahkjfhasjhfas",
+    "comment_id": "IC_kwDOCCum185Ksc6_",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Asim-Tahir",
+    "B": "Mon-ius",
+    "comment_id": "IC_kwDOCCum185K7AhR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "robmolloyntt",
+    "B": "Mon-ius",
+    "comment_id": "IC_kwDOCCum185K7AhR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "juzser",
+    "B": "Mon-ius",
+    "comment_id": "IC_kwDOCCum185K7AhR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "jonyw4",
+    "B": "Mon-ius",
+    "comment_id": "IC_kwDOCCum185K7AhR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mesqueeb",
+    "B": "Mon-ius",
+    "comment_id": "IC_kwDOCCum185K7AhR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "brolnickij",
+    "B": "Mon-ius",
+    "comment_id": "IC_kwDOCCum185K7AhR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "kakasplatt",
+    "B": "Mon-ius",
+    "comment_id": "IC_kwDOCCum185K7AhR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "wopian",
+    "B": "Mon-ius",
+    "comment_id": "IC_kwDOCCum185K7AhR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "luigiMinardi",
+    "B": "Mon-ius",
+    "comment_id": "IC_kwDOCCum185K7AhR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "kaatula",
+    "B": "Mon-ius",
+    "comment_id": "IC_kwDOCCum185K7AhR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "18alantom",
+    "B": "Mon-ius",
+    "comment_id": "IC_kwDOCCum185K7AhR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Rolanddoda",
+    "B": "Mon-ius",
+    "comment_id": "IC_kwDOCCum185K7AhR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "arthurmoro",
+    "B": "Mon-ius",
+    "comment_id": "IC_kwDOCCum185K7AhR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "royteusink",
+    "B": "Mon-ius",
+    "comment_id": "IC_kwDOCCum185K7AhR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Mister-Hope",
+    "B": "Mon-ius",
+    "comment_id": "IC_kwDOCCum185K7AhR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "VChet",
+    "B": "Mon-ius",
+    "comment_id": "IC_kwDOCCum185K7AhR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "so1ve",
+    "B": "Mon-ius",
+    "comment_id": "IC_kwDOCCum185K7AhR",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "juzser",
+    "B": "sanfords",
+    "comment_id": "IC_kwDOCCum185N1rbB",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Wouter125",
+    "B": "sanfords",
+    "comment_id": "IC_kwDOCCum185N1rbB",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Tomdatbenik",
+    "B": "sanfords",
+    "comment_id": "IC_kwDOCCum185N1rbB",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "cuikho210",
+    "B": "sanfords",
+    "comment_id": "IC_kwDOCCum185N1rbB",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "r0lodex",
+    "B": "sanfords",
+    "comment_id": "IC_kwDOCCum185N1rbB",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Rusinas",
+    "B": "sxzz",
+    "comment_id": "IC_kwDOCCum185Ocg4Y",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "axtlive",
+    "B": "sxzz",
+    "comment_id": "IC_kwDOCCum185Ocg4Y",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "matthew-dean",
+    "B": "sxzz",
+    "comment_id": "IC_kwDOCCum185Ocg4Y",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "MorevM",
+    "B": "extrem7",
+    "comment_id": "IC_kwDOCCum185QgbjA",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Rusinas",
+    "B": "extrem7",
+    "comment_id": "IC_kwDOCCum185QgbjA",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "VChet",
+    "B": "extrem7",
+    "comment_id": "IC_kwDOCCum185QgbjA",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "seahindeniz",
+    "B": "extrem7",
+    "comment_id": "IC_kwDOCCum185QgbjA",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Boomy-Vehikl-Two",
+    "B": "extrem7",
+    "comment_id": "IC_kwDOCCum185QgbjA",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "rezelute",
+    "B": "extrem7",
+    "comment_id": "IC_kwDOCCum185QgbjA",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "parabolazz",
+    "B": "extrem7",
+    "comment_id": "IC_kwDOCCum185QgbjA",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "MorevM",
+    "B": "dakt",
+    "comment_id": "IC_kwDOCCum185QrB0S",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "MorevM",
+    "B": "dakt",
+    "comment_id": "IC_kwDOCCum185QrB0S",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "liulinboyi",
+    "B": "dakt",
+    "comment_id": "IC_kwDOCCum185QrB0S",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Niputi",
+    "B": "dakt",
+    "comment_id": "IC_kwDOCCum185QrB0S",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "rogier-stegeman",
+    "B": "dakt",
+    "comment_id": "IC_kwDOCCum185QrB0S",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "g1eny0ung",
+    "B": "dakt",
+    "comment_id": "IC_kwDOCCum185QrB0S",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Cmacu",
+    "B": "AlertNull",
+    "comment_id": "IC_kwDOCCum185Q1773",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Mrlilili",
+    "B": "AlertNull",
+    "comment_id": "IC_kwDOCCum185Q1773",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Szymon-dziewonski",
+    "B": "AlertNull",
+    "comment_id": "IC_kwDOCCum185Q1773",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "rogier-stegeman",
+    "B": "AlertNull",
+    "comment_id": "IC_kwDOCCum185Q1773",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "klerpi",
+    "B": "AlertNull",
+    "comment_id": "IC_kwDOCCum185Q1773",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "extrem7",
+    "B": "AlertNull",
+    "comment_id": "IC_kwDOCCum185Q1773",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "gareth-disqo",
+    "B": "AlertNull",
+    "comment_id": "IC_kwDOCCum185Q1773",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "g1eny0ung",
+    "B": "AlertNull",
+    "comment_id": "IC_kwDOCCum185Q1773",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "nasikusa",
+    "B": "AlertNull",
+    "comment_id": "IC_kwDOCCum185Q1773",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mkurczewski",
+    "B": "AlertNull",
+    "comment_id": "IC_kwDOCCum185Q1773",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "carlo697",
+    "B": "AlertNull",
+    "comment_id": "IC_kwDOCCum185Q1773",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ikomom",
+    "B": "AlertNull",
+    "comment_id": "IC_kwDOCCum185Q1773",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "volk234",
+    "B": "AlertNull",
+    "comment_id": "IC_kwDOCCum185Q1773",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "CaptainYarb",
+    "B": "AlertNull",
+    "comment_id": "IC_kwDOCCum185Q1773",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Vanilagy",
+    "B": "AlertNull",
+    "comment_id": "IC_kwDOCCum185Q1773",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "pionxzh",
+    "B": "AlertNull",
+    "comment_id": "IC_kwDOCCum185Q1773",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "samcyn",
+    "B": "AlertNull",
+    "comment_id": "IC_kwDOCCum185Q1773",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Nugine",
+    "B": "AlertNull",
+    "comment_id": "IC_kwDOCCum185Q1773",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ALiangLiang",
+    "B": "AlertNull",
+    "comment_id": "IC_kwDOCCum185Q1773",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Apollo314",
+    "B": "AlertNull",
+    "comment_id": "IC_kwDOCCum185Q1773",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "andrewalc",
+    "B": "AlertNull",
+    "comment_id": "IC_kwDOCCum185Q1773",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "AleksKamb",
+    "B": "nguyenvanhoangnhan",
+    "comment_id": "IC_kwDOCCum185YPP3M",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "liunnn1994",
+    "B": "nguyenvanhoangnhan",
+    "comment_id": "IC_kwDOCCum185YPP3M",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Igonato",
+    "B": "nguyenvanhoangnhan",
+    "comment_id": "IC_kwDOCCum185YPP3M",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "solmanter",
+    "B": "nguyenvanhoangnhan",
+    "comment_id": "IC_kwDOCCum185YPP3M",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "oinconquistado",
+    "B": "nguyenvanhoangnhan",
+    "comment_id": "IC_kwDOCCum185YPP3M",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Meihina",
+    "B": "nguyenvanhoangnhan",
+    "comment_id": "IC_kwDOCCum185YPP3M",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "jxjj",
+    "B": "dakt",
+    "comment_id": "IC_kwDOCCum185Z5GKH",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "keyiis",
+    "B": "so1ve",
+    "comment_id": "IC_kwDOCCum185ketgd",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "LazySleep",
+    "B": "rbecheras",
+    "comment_id": "IC_kwDOCCum185lQ5Uo",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "dbarwikowski",
+    "B": "gnuletik",
+    "comment_id": "IC_kwDOCCum1849laKz",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mszkb",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1841lqK1",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ABB65",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1841lqK1",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "robbens",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1841lqK1",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "yng88",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1841lqK1",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "uoau",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1841lqK1",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Illmix",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1841lqK1",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Knove",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1841lqK1",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "d-ryabtsev",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1841lqK1",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "T1c0MmRtODFORlpt",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1841lqK1",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "TimothyMarcelleon",
+    "B": "webarthur",
+    "comment_id": "IC_kwDOCCum184-zTlh",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "MichaelGitArt",
+    "B": "lesonky",
+    "comment_id": "IC_kwDOCCum185N33F8",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Hulkmaster",
+    "B": "lesonky",
+    "comment_id": "IC_kwDOCCum185N33F8",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ArvinChen9539",
+    "B": "lesonky",
+    "comment_id": "IC_kwDOCCum185N33F8",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "joanfabregat",
+    "B": "lesonky",
+    "comment_id": "IC_kwDOCCum185N33F8",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "MitchelZigterman",
+    "B": "lesonky",
+    "comment_id": "IC_kwDOCCum185N33F8",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "hopkinson",
+    "B": "lesonky",
+    "comment_id": "IC_kwDOCCum185N33F8",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "toto6038",
+    "B": "lesonky",
+    "comment_id": "IC_kwDOCCum185N33F8",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "senyaak",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1842PgF9",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "maribox",
+    "B": "eikooc",
+    "comment_id": "IC_kwDOCCum18424EzE",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "hungify",
+    "B": "eikooc",
+    "comment_id": "IC_kwDOCCum18424EzE",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "jiankafei",
+    "B": "yzx9",
+    "comment_id": "IC_kwDOCCum1842lYWY",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "transtone",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1842qJq2",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "uoau",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1842qJq2",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Lionad-Morotar",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1842qJq2",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Kchengz",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1842qJq2",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "cyfung1031",
+    "B": "Justineo",
+    "comment_id": "IC_kwDOCCum1842soaB",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "fuyucn",
+    "B": "Justineo",
+    "comment_id": "IC_kwDOCCum1842soaB",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "trottierm",
+    "B": "Justineo",
+    "comment_id": "IC_kwDOCCum1842soaB",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "scipilot",
+    "B": "Justineo",
+    "comment_id": "IC_kwDOCCum1842soaB",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "heng1025",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum18427vVT",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "abaumg",
+    "B": "bogdantica",
+    "comment_id": "IC_kwDOCCum185N1JfV",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "abaumg",
+    "B": "SavkaTaras",
+    "comment_id": "IC_kwDOCCum185N9B_J",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Bodrosh",
+    "B": "SavkaTaras",
+    "comment_id": "IC_kwDOCCum185N9B_J",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "dankocjan",
+    "B": "SavkaTaras",
+    "comment_id": "IC_kwDOCCum185N9B_J",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Grimille",
+    "B": "dsmelon",
+    "comment_id": "IC_kwDOCCum185-AK6R",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "soultice",
+    "B": "dsmelon",
+    "comment_id": "IC_kwDOCCum185-AK6R",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Azurox",
+    "B": "dsmelon",
+    "comment_id": "IC_kwDOCCum185-AK6R",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "AntonHx",
+    "B": "dsmelon",
+    "comment_id": "IC_kwDOCCum185-AK6R",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Bladesheng",
+    "B": "dsmelon",
+    "comment_id": "IC_kwDOCCum185-AK6R",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "rehanvdm",
+    "B": "posva",
+    "comment_id": "IC_kwDOCCum1843f3Xn",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "matrunchyk",
+    "B": "posva",
+    "comment_id": "IC_kwDOCCum1843f3Xn",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "matrunchyk",
+    "B": "posva",
+    "comment_id": "IC_kwDOCCum1843f3Xn",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "davidboom95",
+    "B": "posva",
+    "comment_id": "IC_kwDOCCum1843f3Xn",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mongofeng",
+    "B": "posva",
+    "comment_id": "IC_kwDOCCum1843f3Xn",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Matrixbirds",
+    "B": "posva",
+    "comment_id": "IC_kwDOCCum1843f3Xn",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "shixin-guo",
+    "B": "posva",
+    "comment_id": "IC_kwDOCCum1843f4CZ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "xiaweizi",
+    "B": "posva",
+    "comment_id": "IC_kwDOCCum1843f4CZ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "nolanlee",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1843yKtA",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "zdimaz",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum18433yMe",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "adamxi",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum18433yMe",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "cadenzah",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum18433yMe",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "daysv",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum18433yMe",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "AdamMarsden",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum18433yMe",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "wriozumi",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum18433yMe",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "baoxianggao",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum18433yMe",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ken-tan3",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum18433yMe",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "vedmant",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum18433yMe",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "CallumWatkins",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum18433yMe",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "rvanmarkus",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum18433yMe",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "eytienne",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum18433yMe",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "a-di-ez",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum18433yMe",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "martinbean",
+    "B": "posva",
+    "comment_id": "IC_kwDOCCum1844AHs8",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "peter-mghendi",
+    "B": "posva",
+    "comment_id": "IC_kwDOCCum1844AHs8",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "jralison",
+    "B": "posva",
+    "comment_id": "IC_kwDOCCum1844AHs8",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "peter-mghendi",
+    "B": "martinbean",
+    "comment_id": "IC_kwDOCCum1845mPiQ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "wellrus",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1844yWMO",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "wellrus",
+    "B": "posva",
+    "comment_id": "IC_kwDOCCum1844yWh2",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "criticalsoft",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1844y4B_",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "serhiichuk",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum18443nLJ",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "infinite-system",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum18443nLJ",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "MFinn87",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum18443nLJ",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "geoffgscott",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum18443nLJ",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "vallemar",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum18443nLJ",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "c-harding",
+    "B": "caozhong1996",
+    "comment_id": "IC_kwDOCCum1846q2dX",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "pto3",
+    "B": "caozhong1996",
+    "comment_id": "IC_kwDOCCum1846q2dX",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ly-sniper",
+    "B": "jzfai",
+    "comment_id": "IC_kwDOCCum1846Wpjt",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "ClassicOldSong",
+    "B": "caozhong1996",
+    "comment_id": "IC_kwDOCCum1846xfp0",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "SukkaW",
+    "B": "caozhong1996",
+    "comment_id": "IC_kwDOCCum1846xfp0",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "dmolesUC",
+    "B": "ClassicOldSong",
+    "comment_id": "IC_kwDOCCum1846yKoe",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "dmolesUC",
+    "B": "kospl",
+    "comment_id": "IC_kwDOCCum1846yLA0",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "dmolesUC",
+    "B": "ClassicOldSong",
+    "comment_id": "IC_kwDOCCum1846yLJL",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "dmolesUC",
+    "B": "kospl",
+    "comment_id": "IC_kwDOCCum1846yLsv",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "dmolesUC",
+    "B": "ClassicOldSong",
+    "comment_id": "IC_kwDOCCum1846yOcX",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "FoxDaxian",
+    "B": "posva",
+    "comment_id": "IC_kwDOCCum1847DpxD",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "lidlanca",
+    "B": "Justineo",
+    "comment_id": "IC_kwDOCCum1847VGOP",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "LexDX",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1847aHrM",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "dxvladislavvolkov",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1847aHrM",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "builder555",
+    "B": "posva",
+    "comment_id": "IC_kwDOCCum1847qoZT",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "sxzz",
+    "B": "lihanspace",
+    "comment_id": "IC_kwDOCCum185CC32w",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Azema4ka",
+    "B": "lihanspace",
+    "comment_id": "IC_kwDOCCum185CC32w",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Tofandel",
+    "B": "lihanspace",
+    "comment_id": "IC_kwDOCCum185CC32w",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "cvpv",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185DC-GI",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "kien5436",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1848tLy9",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "turkerdev",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1848tLy9",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "DmitriyWebDev",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1848tLy9",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "rodrigocfd",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1848tLy9",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "e-oloughlin",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1848tLy9",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Hulkmaster",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1848tLy9",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mannok",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1848tLy9",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "KazimirPodolski",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1848tLy9",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "RichardJECooke",
+    "B": "emahuni",
+    "comment_id": "IC_kwDOCCum185Qxki9",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mannok",
+    "B": "emahuni",
+    "comment_id": "IC_kwDOCCum185Qxki9",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "letoast",
+    "B": "emahuni",
+    "comment_id": "IC_kwDOCCum185Qxki9",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "hungify2022",
+    "B": "the94air",
+    "comment_id": "IC_kwDOCCum185e2RKQ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "YoussefBouch",
+    "B": "the94air",
+    "comment_id": "IC_kwDOCCum185e2RKQ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "MortyQ",
+    "B": "the94air",
+    "comment_id": "IC_kwDOCCum185e2RKQ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "JhonWeawer",
+    "B": "caozhong1996",
+    "comment_id": "IC_kwDOCCum1849hidV",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "JhonWeawer",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum1849oCVU",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "XiNiHa",
+    "B": "shkim",
+    "comment_id": "IC_kwDOCCum1849rPcZ",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "jeremio",
+    "B": "nileshtrivedi",
+    "comment_id": "IC_kwDOCCum185ChDMZ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "chrisbellman",
+    "B": "nileshtrivedi",
+    "comment_id": "IC_kwDOCCum185ChDMZ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "micahlt",
+    "B": "nileshtrivedi",
+    "comment_id": "IC_kwDOCCum185ChDMZ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Actarus-0",
+    "B": "nileshtrivedi",
+    "comment_id": "IC_kwDOCCum185ChDMZ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Asim-Tahir",
+    "B": "nileshtrivedi",
+    "comment_id": "IC_kwDOCCum185ChDMZ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "qin-guan",
+    "B": "nileshtrivedi",
+    "comment_id": "IC_kwDOCCum185ChDMZ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "ClassicOldSong",
+    "B": "nileshtrivedi",
+    "comment_id": "IC_kwDOCCum185ChDMZ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Yechuanjie",
+    "B": "nileshtrivedi",
+    "comment_id": "IC_kwDOCCum185ChDMZ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "roblight",
+    "B": "nileshtrivedi",
+    "comment_id": "IC_kwDOCCum185ChDMZ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "didnotwant",
+    "B": "nileshtrivedi",
+    "comment_id": "IC_kwDOCCum185ChDMZ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "onderbakirtas",
+    "B": "nileshtrivedi",
+    "comment_id": "IC_kwDOCCum185ChDMZ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Ap3rtur3",
+    "B": "nileshtrivedi",
+    "comment_id": "IC_kwDOCCum185ChDMZ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "davidglezz",
+    "B": "nileshtrivedi",
+    "comment_id": "IC_kwDOCCum185ChDMZ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "kleinfreund",
+    "B": "posva",
+    "comment_id": "IC_kwDOCCum184-eJU5",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Rolanddoda",
+    "B": "posva",
+    "comment_id": "IC_kwDOCCum184_I0GN",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "a7med3bd",
+    "B": "jackkitley",
+    "comment_id": "IC_kwDOCCum185EYBMK",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "preeteshjain",
+    "B": "jackkitley",
+    "comment_id": "IC_kwDOCCum185EeDV-",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "sayansinha5",
+    "B": "preeteshjain",
+    "comment_id": "IC_kwDOCCum185F94xw",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "PiyushMathur231",
+    "B": "preeteshjain",
+    "comment_id": "IC_kwDOCCum185F94xw",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Dao-Cao",
+    "B": "preeteshjain",
+    "comment_id": "IC_kwDOCCum185F94xw",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "preeteshjain",
+    "B": "ArkoxHub",
+    "comment_id": "IC_kwDOCCum185GAHzF",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "nicoszerman",
+    "B": "ArkoxHub",
+    "comment_id": "IC_kwDOCCum185GAHzF",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "sayansinha5",
+    "B": "preeteshjain",
+    "comment_id": "IC_kwDOCCum185GA34e",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "lbeougher",
+    "B": "preeteshjain",
+    "comment_id": "IC_kwDOCCum185GA34e",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "M1CK431",
+    "B": "adonis-lsh",
+    "comment_id": "IC_kwDOCCum185X1Sq-",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "quentinus95",
+    "B": "sqal",
+    "comment_id": "IC_kwDOCCum185AT4S-",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mdpx",
+    "B": "sqal",
+    "comment_id": "IC_kwDOCCum185AT4S-",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "rumblefrog",
+    "B": "sqal",
+    "comment_id": "IC_kwDOCCum185AT4S-",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "cobaltt7",
+    "B": "sqal",
+    "comment_id": "IC_kwDOCCum185AT4S-",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "rezelute",
+    "B": "sqal",
+    "comment_id": "IC_kwDOCCum185AT4S-",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "kleinfreund",
+    "B": "sqal",
+    "comment_id": "IC_kwDOCCum185AT4S-",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "kleinfreund",
+    "B": "f1am3d",
+    "comment_id": "IC_kwDOCCum185X7aAc",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "lloydjatkinson",
+    "B": "rudyxu1102",
+    "comment_id": "IC_kwDOCCum185QXll0",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "webistomin",
+    "B": "rudyxu1102",
+    "comment_id": "IC_kwDOCCum185QXll0",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "codeingforcoffee",
+    "B": "rudyxu1102",
+    "comment_id": "IC_kwDOCCum185QXll0",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "yxw007",
+    "B": "rudyxu1102",
+    "comment_id": "IC_kwDOCCum185QXll0",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "jeryqwq",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum185Bm90A",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "jeryqwq",
+    "B": "haoqunjiang",
+    "comment_id": "IC_kwDOCCum185XmIzo",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "DrJume",
+    "B": "liulinboyi",
+    "comment_id": "IC_kwDOCCum185GnHW7",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "vedranmviu",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum185B7Vqr",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "wenfangdu",
+    "B": "Justineo",
+    "comment_id": "IC_kwDOCCum185CyoiZ",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "wenfangdu",
+    "B": "Justineo",
+    "comment_id": "IC_kwDOCCum185CyoiZ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "x80819091",
+    "B": "Justineo",
+    "comment_id": "IC_kwDOCCum185CyoiZ",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "x80819091",
+    "B": "Justineo",
+    "comment_id": "IC_kwDOCCum185CyoiZ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "jeffhuys",
+    "B": "nezhaLee",
+    "comment_id": "IC_kwDOCCum185DdSqO",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "jeffhuys",
+    "B": "sqal",
+    "comment_id": "IC_kwDOCCum185Dgr4W",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "rigor789",
+    "B": "donatas-luciunas",
+    "comment_id": "IC_kwDOCCum185EW9gd",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "yyx990803",
+    "B": "donatas-luciunas",
+    "comment_id": "IC_kwDOCCum185EW9gd",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "brc-dd",
+    "B": "donatas-luciunas",
+    "comment_id": "IC_kwDOCCum185EW9gd",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Akryum",
+    "B": "donatas-luciunas",
+    "comment_id": "IC_kwDOCCum185EW9gd",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "cuebit",
+    "B": "donatas-luciunas",
+    "comment_id": "IC_kwDOCCum185EW9gd",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "boussadjra",
+    "B": "donatas-luciunas",
+    "comment_id": "IC_kwDOCCum185EW9gd",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "leopiccionia",
+    "B": "donatas-luciunas",
+    "comment_id": "IC_kwDOCCum185EW9gd",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Justineo",
+    "B": "donatas-luciunas",
+    "comment_id": "IC_kwDOCCum185EW9gd",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "bschelling",
+    "B": "nathantaal",
+    "comment_id": "IC_kwDOCCum185NAUdE",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Eunknight",
+    "B": "leyue",
+    "comment_id": "IC_kwDOCCum185JxTrQ",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "answer33",
+    "B": "leyue",
+    "comment_id": "IC_kwDOCCum185JxTrQ",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "xuxing409",
+    "B": "leyue",
+    "comment_id": "IC_kwDOCCum185JxTrQ",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Geniusning",
+    "B": "leyue",
+    "comment_id": "IC_kwDOCCum185JxTrQ",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "msojocs",
+    "B": "leyue",
+    "comment_id": "IC_kwDOCCum185JxTrQ",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "loliconRoot",
+    "B": "leyue",
+    "comment_id": "IC_kwDOCCum185JxTrQ",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "hjywyj",
+    "B": "leyue",
+    "comment_id": "IC_kwDOCCum185JxTrQ",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "sky124380729",
+    "B": "leyue",
+    "comment_id": "IC_kwDOCCum185JxTrQ",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "sbal13",
+    "B": "micheal-parks",
+    "comment_id": "IC_kwDOCCum185J4X0D",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "alexis-wei",
+    "B": "micheal-parks",
+    "comment_id": "IC_kwDOCCum185J4X0D",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "anjinai",
+    "B": "micheal-parks",
+    "comment_id": "IC_kwDOCCum185J4X0D",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "mrloureed",
+    "B": "micheal-parks",
+    "comment_id": "IC_kwDOCCum185J4X0D",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "nomadboy20",
+    "B": "Blackman99",
+    "comment_id": "IC_kwDOCCum185HvKfB",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "zhou-tao",
+    "B": "Blackman99",
+    "comment_id": "IC_kwDOCCum185Hz859",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "vampics",
+    "B": "nimens55",
+    "comment_id": "IC_kwDOCCum185Xpiw9",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "DrJume",
+    "B": "nimens55",
+    "comment_id": "IC_kwDOCCum185Xpiw9",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "jesusmaherrera",
+    "B": "nimens55",
+    "comment_id": "IC_kwDOCCum185Xpiw9",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "0x408",
+    "B": "nimens55",
+    "comment_id": "IC_kwDOCCum185Xpiw9",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "adamlinscott",
+    "B": "nimens55",
+    "comment_id": "IC_kwDOCCum185Xpiw9",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Bryanoxx",
+    "B": "nimens55",
+    "comment_id": "IC_kwDOCCum185Xpiw9",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Miltonbhowmick",
+    "B": "nimens55",
+    "comment_id": "IC_kwDOCCum185Xpiw9",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "hecktarzuli",
+    "B": "nimens55",
+    "comment_id": "IC_kwDOCCum185Xpiw9",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "EvgenyWas",
+    "B": "nimens55",
+    "comment_id": "IC_kwDOCCum185Xpiw9",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "PaulChernin",
+    "B": "nimens55",
+    "comment_id": "IC_kwDOCCum185Xpiw9",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "fisker",
+    "B": "EmmyMay",
+    "comment_id": "IC_kwDOCCum185I4DDK",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "OrbisK",
+    "B": "hdy1023",
+    "comment_id": "IC_kwDOCCum185jYEMr",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "sikhote",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185Jdft5",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "vampics",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185Jdft5",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "michaelpumo",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185Jdft5",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ItsNotMyFault",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185Jdft5",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Rekwian",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185Jdft5",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mannymu",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185Jdft5",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "parigi-n",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185Jdft5",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "achoshengelia",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185Jdft5",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "chemparparokke",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185Jdft5",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "DrJume",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185Jdft5",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Bohdan909",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185Jdft5",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "command-tab",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185Jdft5",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "masquevil",
+    "B": "posva",
+    "comment_id": "IC_kwDOCCum185KEVln",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "joy-yu",
+    "B": "posva",
+    "comment_id": "IC_kwDOCCum185L8hx_",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Rusinas",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum185MwEG7",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "lauriys",
+    "B": "posva",
+    "comment_id": "IC_kwDOCCum185pgzZa",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "grigoryosifov",
+    "B": "wucdbm",
+    "comment_id": "IC_kwDOCCum186UOJNC",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "BeUnhappy",
+    "B": "cscsb",
+    "comment_id": "IC_kwDOCCum185OLg9N",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "masterX89",
+    "B": "cscsb",
+    "comment_id": "IC_kwDOCCum185OLg9N",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "lchxiang",
+    "B": "cscsb",
+    "comment_id": "IC_kwDOCCum185OLg9N",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "HarveyYu-Pro",
+    "B": "cscsb",
+    "comment_id": "IC_kwDOCCum185OLg9N",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "JannieT",
+    "B": "llput",
+    "comment_id": "IC_kwDOCCum185OPTaT",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "AndrewBogdanovTSS",
+    "B": "johnsoncodehk",
+    "comment_id": "IC_kwDOCCum185RfySi",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "paro-paro",
+    "B": "v4nz777",
+    "comment_id": "IC_kwDOCCum185xN3hs",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "swag42dev",
+    "B": "v4nz777",
+    "comment_id": "IC_kwDOCCum185xN3hs",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ivanmem",
+    "B": "GuyFox70",
+    "comment_id": "IC_kwDOCCum185ZdwTG",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "sxzz",
+    "B": "joebnb",
+    "comment_id": "IC_kwDOCCum185QVgyc",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "guoyiheng",
+    "B": "joebnb",
+    "comment_id": "IC_kwDOCCum185QVgyc",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "158910214",
+    "B": "joebnb",
+    "comment_id": "IC_kwDOCCum185QVgyc",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "andreasvirkus",
+    "B": "weidehai",
+    "comment_id": "IC_kwDOCCum185T-bjw",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "xaybatullayev",
+    "B": "houd1ni",
+    "comment_id": "IC_kwDOCCum185WYiiD",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Doeke",
+    "B": "Jevon617",
+    "comment_id": "IC_kwDOCCum185YgSs0",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "baiwusanyu-c",
+    "B": "yanyunwu",
+    "comment_id": "IC_kwDOCCum185Yl0rc",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "ccitsxy",
+    "B": "HostDay123",
+    "comment_id": "IC_kwDOCCum185aQPGy",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "so1ve",
+    "B": "HostDay123",
+    "comment_id": "IC_kwDOCCum185aQPGy",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Bernankez",
+    "B": "HostDay123",
+    "comment_id": "IC_kwDOCCum185aQPGy",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "zangbianxuegu",
+    "B": "pangao66",
+    "comment_id": "IC_kwDOCCum185aWjW5",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Humphryyy",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185aqJHE",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "MirzaeiDev",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185aqJHE",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Magentai",
+    "B": "JontyMC",
+    "comment_id": "IC_kwDOCCum1859EGEn",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "seahindeniz",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185cIOO4",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "gorankarlic",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185cIOO4",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "RomanSkrypnik",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185cIOO4",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "brunoalod",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185cIOO4",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "susanforme",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185cIOO4",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "marsidev",
+    "B": "so1ve",
+    "comment_id": "IC_kwDOCCum185kdFJw",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "turbosheep44",
+    "B": "emilyAzz",
+    "comment_id": "IC_kwDOCCum185dmIRb",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "cbrgpl",
+    "B": "emilyAzz",
+    "comment_id": "IC_kwDOCCum185dmIRb",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "emilsosa",
+    "B": "emilyAzz",
+    "comment_id": "IC_kwDOCCum185dmIRb",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "andreasvirkus",
+    "B": "emilyAzz",
+    "comment_id": "IC_kwDOCCum185dmIRb",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "grindpride",
+    "B": "stafyniaksacha",
+    "comment_id": "IC_kwDOCCum185j5UUc",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "infrast-ques",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185eC_vU",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "gavuss",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185eC_vU",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "longtengz",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum185eC_vU",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "GabrielHangor",
+    "B": "vaban-ru",
+    "comment_id": "IC_kwDOCCum185iU4AQ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "DreamShaded",
+    "B": "vaban-ru",
+    "comment_id": "IC_kwDOCCum185iU4AQ",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "amirhoseinsalimi",
+    "B": "sxzz",
+    "comment_id": "IC_kwDOCCum185eiH1D",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "katerlouis",
+    "B": "sxzz",
+    "comment_id": "IC_kwDOCCum185eiH1D",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "nick-korolev",
+    "B": "xrsdww",
+    "comment_id": "IC_kwDOCCum185fUQYU",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "adamreisnz",
+    "B": "jacekkarczmarczyk",
+    "comment_id": "IC_kwDOCCum185h3SW4",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "oreshkink",
+    "B": "Alfred-Skyblue",
+    "comment_id": "IC_kwDOCCum185nCKJ4",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "brolnickij",
+    "B": "nathanchase",
+    "comment_id": "IC_kwDOCCum186cpv8W",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ethan-ccm",
+    "B": "nathanchase",
+    "comment_id": "IC_kwDOCCum186cpv8W",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "fimion",
+    "B": "nathanchase",
+    "comment_id": "IC_kwDOCCum186cpv8W",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "murshex",
+    "B": "nathanchase",
+    "comment_id": "IC_kwDOCCum186cpv8W",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "AnthoniG",
+    "B": "nathanchase",
+    "comment_id": "IC_kwDOCCum186cpv8W",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "agileago",
+    "B": "Shyam-Chen",
+    "comment_id": "IC_kwDOCCum185kPEAc",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "amirhossein-fzl",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum185l7mdb",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "TheAlexLichter",
+    "B": "Xowap",
+    "comment_id": "IC_kwDOCCum186TBm2l",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "TheAlexLichter",
+    "B": "Xowap",
+    "comment_id": "IC_kwDOCCum186TBm2l",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "jacekkarczmarczyk",
+    "B": "KUN1007",
+    "comment_id": "IC_kwDOCCum185q81Pk",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "so1ve",
+    "B": "KUN1007",
+    "comment_id": "IC_kwDOCCum185q81Pk",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "jacekkarczmarczyk",
+    "B": "KUN1007",
+    "comment_id": "IC_kwDOCCum185q8wFZ",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "so1ve",
+    "B": "KUN1007",
+    "comment_id": "IC_kwDOCCum185q8wFZ",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "numfin",
+    "B": "KUN1007",
+    "comment_id": "IC_kwDOCCum185q8wFZ",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "zabavnikov",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum185wnv03",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "lehni",
+    "B": "haoqunjiang",
+    "comment_id": "IC_kwDOCCum185xdAEH",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "treardon17",
+    "B": "haoqunjiang",
+    "comment_id": "IC_kwDOCCum185xdAEH",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "shengslogar",
+    "B": "soyamore",
+    "comment_id": "IC_kwDOCCum185x-HFv",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "mmoore99",
+    "B": "Doctor-wu",
+    "comment_id": "IC_kwDOCCum185yPi8V",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "daniluk4000",
+    "B": "volarname",
+    "comment_id": "IC_kwDOCCum185zYIWl",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "rotsee",
+    "B": "volarname",
+    "comment_id": "IC_kwDOCCum185zYIWl",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "matthew-dean",
+    "B": "hugoattal",
+    "comment_id": "IC_kwDOCCum186FI_s4",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Disservin",
+    "B": "rex-ll",
+    "comment_id": "IC_kwDOCCum1857n_V7",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Disservin",
+    "B": "LebronLei",
+    "comment_id": "IC_kwDOCCum1857oY06",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Disservin",
+    "B": "lau96",
+    "comment_id": "IC_kwDOCCum1857olW1",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Disservin",
+    "B": "JamesY-Jey",
+    "comment_id": "IC_kwDOCCum1857ouNW",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Disservin",
+    "B": "mote-ice",
+    "comment_id": "IC_kwDOCCum1857o7LF",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Rusinas",
+    "B": "Yee1014",
+    "comment_id": "IC_kwDOCCum186s3wvn",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Threebow",
+    "B": "linzhe141",
+    "comment_id": "IC_kwDOCCum186DFJdq",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "YaredFall",
+    "B": "LinusBorg",
+    "comment_id": "IC_kwDOCCum186EIXjn",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "WangJincheng4869",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum186Gd_ck",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "egormiron",
+    "B": "yyx990803",
+    "comment_id": "IC_kwDOCCum186Gd_ck",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "kcmeven",
+    "B": "zumm",
+    "comment_id": "IC_kwDOCCum186IjtQD",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "labs20",
+    "B": "edison1105",
+    "comment_id": "IC_kwDOCCum186HlWLR",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "rizypb",
+    "B": "edison1105",
+    "comment_id": "IC_kwDOCCum186IgTVz",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "dabernathy89",
+    "B": "edison1105",
+    "comment_id": "IC_kwDOCCum186JxHlc",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Shinigami92",
+    "B": "edison1105",
+    "comment_id": "IC_kwDOCCum186JxHlc",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "zcf0508",
+    "B": "edison1105",
+    "comment_id": "IC_kwDOCCum186LE794",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "zcf0508",
+    "B": "edison1105",
+    "comment_id": "IC_kwDOCCum186LE794",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "Exotelis",
+    "B": "edison1105",
+    "comment_id": "IC_kwDOCCum186MaoY0",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "NotAud",
+    "B": "edison1105",
+    "comment_id": "IC_kwDOCCum186MaoY0",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Gianthard-cyh",
+    "B": "guaijie",
+    "comment_id": "IC_kwDOCCum186NxJkK",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Simon-He95",
+    "B": "guaijie",
+    "comment_id": "IC_kwDOCCum186NxJkK",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "MuhaddiMu",
+    "B": "KazariEX",
+    "comment_id": "IC_kwDOCCum186OKwjy",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ItzNotABug",
+    "B": "KazariEX",
+    "comment_id": "IC_kwDOCCum186OKwjy",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "kicaj",
+    "B": "KazariEX",
+    "comment_id": "IC_kwDOCCum186OKwjy",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ext",
+    "B": "KazariEX",
+    "comment_id": "IC_kwDOCCum186OKwjy",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "calumk",
+    "B": "KazariEX",
+    "comment_id": "IC_kwDOCCum186OKwjy",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "maxorlovsky",
+    "B": "KazariEX",
+    "comment_id": "IC_kwDOCCum186OKwjy",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "khkramer",
+    "B": "KazariEX",
+    "comment_id": "IC_kwDOCCum186OKwjy",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "LLZ14",
+    "B": "KazariEX",
+    "comment_id": "IC_kwDOCCum186OKwjy",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "christoffer-gh",
+    "B": "KazariEX",
+    "comment_id": "IC_kwDOCCum186OKwjy",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "bjornandrip",
+    "B": "KazariEX",
+    "comment_id": "IC_kwDOCCum186OKwjy",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Alexandre-Brayer",
+    "B": "KazariEX",
+    "comment_id": "IC_kwDOCCum186OKwjy",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "hbarraza",
+    "B": "KazariEX",
+    "comment_id": "IC_kwDOCCum186OKwjy",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Durss",
+    "B": "KazariEX",
+    "comment_id": "IC_kwDOCCum186OKwjy",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "justin761002",
+    "B": "KazariEX",
+    "comment_id": "IC_kwDOCCum186OKwjy",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "rois2coeurs",
+    "B": "KazariEX",
+    "comment_id": "IC_kwDOCCum186OKwjy",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "aelgn",
+    "B": "brc-dd",
+    "comment_id": "IC_kwDOCCum186Y88r_",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "GW0420",
+    "B": "DENCREAT",
+    "comment_id": "IC_kwDOCCum186QY2fh",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "GW0420",
+    "B": "DENCREAT",
+    "comment_id": "IC_kwDOCCum186QY2fh",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "HaNdTriX",
+    "B": "edison1105",
+    "comment_id": "IC_kwDOCCum186UAirC",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "Gwynerva",
+    "B": "noootwo",
+    "comment_id": "IC_kwDOCCum186YYWrW",
+    "reaction": "CONFUSED"
+  },
+  {
+    "A": "kleinfreund",
+    "B": "lejunyang",
+    "comment_id": "IC_kwDOCCum186Yo7Gz",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "ChinaChenMingQuan",
+    "B": "edison1105",
+    "comment_id": "IC_kwDOCCum186Yytj5",
+    "reaction": "THUMBS_DOWN"
+  },
+  {
+    "A": "claudiaballano",
+    "B": "edison1105",
+    "comment_id": "IC_kwDOCCum186lW1Ll",
+    "reaction": "CONFUSED"
+  }
+]
